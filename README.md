@@ -1,5 +1,9 @@
 # Benchmarking applications using PresentMon, Xperf, and CapFrameX
 
+## A must-read
+> [!CAUTION] 
+> You may not sell or copy a free product. Such behavior will not be tolerated. Please respect the labor, work and effort I have put into this guide. If you choose to share content that is not your own, please credit my authorship. Let us know about users who are trying to profit from other people's labor. It is also forbidden to use scripts, files and registry settings taken directly from this operating system for profit.
+
 - This repository provides practical instructions and examples for benchmarking applications using PresentMon, Xperf, and CapFrameX tools.
 
 ## Objective:
